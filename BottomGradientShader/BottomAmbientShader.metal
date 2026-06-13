@@ -1,6 +1,6 @@
 //
 //  BottomAmbientShader.metal
-//  SwiftJun1
+//  BottomGradientShader
 //
 //  Created by Codex on 5/31/26.
 //

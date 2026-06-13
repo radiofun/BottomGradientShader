@@ -1,6 +1,6 @@
 //
 //  BottomAmbientLightView.swift
-//  SwiftJun1
+//  BottomGradientShader
 //
 //  Created by Codex on 5/31/26.
 //
@@ -50,13 +50,6 @@ struct BottomAmbientLightDemoView: View {
         ZStack {
             Color.black
                 .ignoresSafeArea()
-
-            Image("sample2")
-                .resizable()
-                .scaledToFill()
-                .ignoresSafeArea()
-                .frame(width:393)
-                .opacity(isContentVisible ? 0.25 : 1)
 
             BottomAmbientLightView(tint: tint, progress: lightReveal)
                 .ignoresSafeArea()

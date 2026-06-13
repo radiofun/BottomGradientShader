@@ -2,7 +2,7 @@
 //  BottomGradientShaderApp.swift
 //  BottomGradientShader
 //
-//  Created by Minsang Choi on 6/12/26.
+//  Created by Codex on 5/31/26.
 //
 
 import SwiftUI
